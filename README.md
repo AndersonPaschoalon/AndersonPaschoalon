@@ -23,11 +23,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonPaschoalon&layout=default&theme=algolia&hide=html&hide_border=true" width="600">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=AndersonPaschoalon&theme=algolia&hide_border=true&hide_title=true" width="600">
+<img src="https://activity-graph.herokuapp.com/graph?username=AndersonPaschoalon&theme=react-dark&hide_border=true&hide_title=true" width="900">
 
 <img src="https://github-profile-trophy.vercel.app/?username=AndersonPaschoalon&theme=onestar&no-frame=true&column=3&row=2&" width="600">
 
-[<img src="https://activity-graph.herokuapp.com/graph?username=AndersonPaschoalon&theme=algolia&hide_border=true&hide_title=true" width="600" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+
 
 
 ## 🤘 I'm Listening too
