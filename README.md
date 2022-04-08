@@ -30,7 +30,7 @@
 
 
 
-## 🤘 I'm Listening too
+## 🤘 I'm Listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1fatgboezzgmduro8a9t28wki&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
