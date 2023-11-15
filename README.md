@@ -21,9 +21,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonPaschoalon&theme=algolia" width="600">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonPaschoalon&layout=default&theme=algolia&hide=html&hide_border=true" width="600">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonpaschoalon&layout=pie&theme=algolia&langs_count=18" width="600">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=AndersonPaschoalon&theme=react-dark&hide_border=true&hide_title=true" width="900">
+<img src="https://github-readme-stats.vercel.app/api?username=andersonpaschoalon&show_icons=true&theme=algolia" width="600">
 
 <img src="https://github-profile-trophy.vercel.app/?username=AndersonPaschoalon&theme=onestar&no-frame=true&column=3&row=2&" width="600">
 
